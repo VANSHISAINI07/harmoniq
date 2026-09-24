@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cross-env CI=false NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "outputDirectory": "build"
+}

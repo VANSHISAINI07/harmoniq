@@ -1,0 +1,38 @@
+HARMONIQ SOFTWARE LICENSE AGREEMENT
+====================================
+Copyright (c) 2026 VANSHI SAINI. All Rights Reserved.
+
+PROJECT: Harmoniq (High-Fidelity Audio Streaming Platform & Synchronized Lyrics Engine)
+AUTHOR & SOLE INTELLECTUAL PROPERTY HOLDER: VANSHI SAINI
+DIGITAL SIGNATURE HASH: 0x56414E534849-5341494E49-HARMONIQ-2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+run, and explore the Software, subject to the following strict conditions:
+
+1. MANDATORY RETENTION OF AUTHOR ATTRIBUTION:
+   The above copyright notice, this permission notice, and all author credits
+   attributing original authorship to VANSHI SAINI shall be retained in all
+   copies, substantial portions, compilations, distributions, or forks of the Software.
+
+2. PROHIBITION ON REMOVAL OF WATERMARKS & HIDDEN SIGNATURES:
+   The Software contains embedded cryptographic signatures, hidden runtime watermarks,
+   metadata tags, and verification routines identifying VANSHI SAINI as the sole creator.
+   Any attempt to remove, alter, conceal, obfuscate, decompile, or patch these
+   hidden signatures, watermarks, console banners, or verification routines
+   is strictly prohibited and constitutes willful infringement of intellectual property.
+
+3. DERIVATIVE WORKS & REDISTRIBUTION:
+   Any redistribution, hosting, or deployment of the Software (or any portion thereof)
+   must visibly credit "VANSHI SAINI" as the original creator in both the user interface
+   and technical documentation.
+
+4. DISCLAIMER:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR OR COPYRIGHT HOLDER (VANSHI SAINI) BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
